@@ -1,0 +1,35 @@
+- first_name: "hemanth pusarla" #this is list 
+  last_name: "pusarla"
+  dob: "1999-02-27"
+  gender: "male"
+  address:
+    - type: "temporary"
+      door_no: "123"
+      street: "main road"
+      city: "bengaluru"
+    - type: "permanent"
+      door_no: "456"
+      street: "2nd main road"
+      city: "salur"
+  skills: #this is map or obj or dict 
+    os: "Linux"
+    programming_languages: "java"
+    cm: "ansible"
+- first_name: "padma pusarla" #this is list 
+  last_name: "pusarla"
+  dob: "2000-05-10S"
+  gender: "female"
+  address:
+    - type: "temporary"
+      door_no: "123"
+      street: "main road"
+      city: "bengaluru"
+    - type: "permanent"
+      door_no: "456"
+      street: "2nd main road"
+      city: "salur"
+  skills: #this is map or obj or dict 
+    os: "Linux"
+    programming_languages: "java"
+    cm: "ansible"
+ 

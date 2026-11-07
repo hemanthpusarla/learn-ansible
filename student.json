@@ -1,0 +1,25 @@
+{
+    "firstname": "Hemanth",
+    "lastname": "pusarla",
+    "dob": "1999-02-27",
+    "gender": "male",
+    "address": [
+        {
+            "type": "temporary",
+            "doorno": "123",
+            "street": "main road",
+            "city": "bengaluru"
+        },
+        {
+            "type": "permanent",
+            "doorno": "456",
+            "street": "2nd main road",
+            "city": "salur"
+        }
+    ],
+    "skills": {
+        "os": "Linux",
+        "programming_languages": "java",
+        "cm": "ansible"
+    }
+}

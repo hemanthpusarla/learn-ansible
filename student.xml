@@ -1,0 +1,17 @@
+<student>
+    <firstname>Hemanth </firstname>
+    <lastname>pusarla</lastname>
+    <addresses>
+        <address type="temp">
+            <doorno>123</doorno>
+            <street>gorle street</street>
+            <city>bangalore</city>
+        </address>
+        <address type="permanent">
+            <doorno>321</doorno>
+            <street>akyaana street</street>
+            <city>salur</city>
+        </address>
+    </addresses>
+
+</student>
